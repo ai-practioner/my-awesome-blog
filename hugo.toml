@@ -1,0 +1,8 @@
+baseURL = "https://yourblogname.com/"
+languageCode = "zh-cn"
+title = "我的精彩博客"
+theme = "PaperMod"
+
+[params]
+description = "一个关于我在技术和生活中冒险的博客"
+author = "你的名字"
