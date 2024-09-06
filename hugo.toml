@@ -1,4 +1,4 @@
-baseURL = "https://yourblogname.com/"
+baseURL = "https://my-awesome-blog.pages.dev"
 languageCode = "zh-cn"
 title = "我的精彩博客"
 theme = "PaperMod"
